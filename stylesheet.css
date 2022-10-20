@@ -1086,7 +1086,7 @@ audio {
 	background-repeat: no-repeat no-repeat;
 	background-size: 100px 183px;
 }
-@media (max-width:425px) {
+@media (max-width:320px) {
 	#b3{
 		position: ;
 		left: -7px;
@@ -1123,6 +1123,83 @@ audio {
 		opacity: 0.9;
 	}
 }
+@media (max-width:375px) {
+	#b3{
+		position: ;
+		left: -18px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+	#b4{
+		position: ;
+		left: 56px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+	#b5{
+		position: ;
+		left: 140px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+	#b6{
+		position: ;
+		left: 220px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+	#b7{
+		position: ;
+		left: 295px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+}
+@media (max-width:425px) {
+	#b3{
+		position: ;
+		left: -18px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+	#b4{
+		position: ;
+		left: 68px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+	#b5{
+		position: ;
+		left: 158px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+	#b6{
+		position: ;
+		left: 247px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+	#b7{
+		position: ;
+		left: 333px;
+		bottom: 218.655px;
+		top: 240px;
+		opacity: 0.9;
+	}
+}
+
+
+
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
